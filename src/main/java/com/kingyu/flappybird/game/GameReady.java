@@ -1,9 +1,9 @@
-package com.bird.main;
+package com.kingyu.flappybird.game;
 
 import java.awt.Graphics;
 import java.awt.image.BufferedImage;
-import com.bird.util.Constant;
-import com.bird.util.GameUtil;
+import com.kingyu.flappybird.util.Constant;
+import com.kingyu.flappybird.util.GameUtil;
 
 /**
  * 游戏启动界面类
